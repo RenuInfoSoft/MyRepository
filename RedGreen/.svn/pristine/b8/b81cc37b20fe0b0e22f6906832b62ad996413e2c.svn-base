@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_6c54432e31a52c296210d654a713d9ff16d80956.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_2cbf40a6861a095c43d34fb16bb03eea5c1f3cbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\gson-2.2.4_06608ec23ca29353e96a315307776389672df3ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices_0ad2559b5619e55a326bcc9c2c7c0acc02ed1033.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_2f6e2d7f5488c7663232d6b69f688570956b8e97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_88d44ccc7cb5933c7d111cc445186aadc0ebe197.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\libs\apache-httpcomponents-httpclient.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpclient_40d36c0ace20100228b5b246a5471295ced76c81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="826507592fec9d8e26db18364e709df133c749ce">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\google-play-services_e7a70e02b9b7118f58b2d2bfb1ad1cfa56ae0ff6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\16.0.1\5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5\guava-16.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\guava-16.0.1_5e3b8ed5964321662efea3e11913653c20236a2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\exploded-aar\eu.chainfire\libsuperuser\1.0.0.201602011018\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="106b659c158de8b4ab96df5cea264becaedc9d2e">
+        <dex dex="C:\Users\Kiranmai\Desktop\RedGreen\app\build\intermediates\pre-dexed\debug\eu.chainfire-libsuperuser-1.0.0.201602011018_4039d3b648a7fa99dfc01ace71f59aef6225f229.jar" />
+    </item>
+
+</items>

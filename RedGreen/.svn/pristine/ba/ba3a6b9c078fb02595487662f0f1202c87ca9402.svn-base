@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/eight_dp"
+    android:paddingEnd="@dimen/eight_dp"
+    android:paddingLeft="@dimen/eight_dp"
+    android:paddingRight="@dimen/eight_dp"
+    android:paddingStart="@dimen/eight_dp"
+    android:paddingTop="@dimen/eight_dp" >
+
+    <ImageView
+        android:id="@+id/app_icon"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_marginEnd="@dimen/eight_dp"
+        android:layout_marginRight="@dimen/eight_dp"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_launcher_cache_cleaner" />
+
+    <LinearLayout
+        android:layout_width="@dimen/zero_dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:text="Hello"
+            android:textAlignment="viewStart"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sixteen_sp" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/app_size"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="Hello"
+            android:textAlignment="viewStart"
+            android:textColor="@color/black"
+            android:textSize="@dimen/eleven_sp" >
+        </TextView>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/list_iconCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="@dimen/five_dp"
+        android:adjustViewBounds="true"
+        android:maxHeight="@dimen/thirty_six_dp"
+        android:maxWidth="@dimen/thirty_six_dp"
+        android:src="@drawable/btn_check_to_on_light"
+        android:visibility="gone" />
+
+</LinearLayout>

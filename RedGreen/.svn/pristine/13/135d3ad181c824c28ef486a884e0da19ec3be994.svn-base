@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notification.xml",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\menu\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notification.xml",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\menu\\notification.xml"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_menu.xml",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\menu\\settings_menu.xml"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\push_notifications.xml",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\menu\\push_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_menu.xml",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\menu\\settings_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\background_junk.xml",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\menu\\background_junk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\apps.xml",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\menu\\apps.xml"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\background_junk.xml",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\menu\\background_junk.xml"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\apps.xml",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\menu\\apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\push_notifications.xml",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\menu\\push_notifications.xml"
+    }
+]

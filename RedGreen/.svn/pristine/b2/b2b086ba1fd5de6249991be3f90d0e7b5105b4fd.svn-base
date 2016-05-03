@@ -1,0 +1,8 @@
+package com.unfoldlabs.redgreen.interfaces;
+
+import android.util.SparseBooleanArray;
+
+public interface CleanAppListener {
+	public void packageListener(SparseBooleanArray appArray);
+	public void sumTotal(int sumFinal);
+}

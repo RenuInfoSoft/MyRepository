@@ -1,0 +1,121 @@
+package com.unfoldlabs.redgreen.receiver;
+
+import android.annotation.SuppressLint;
+import android.app.AlarmManager;
+import android.app.PendingIntent;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+
+import com.unfoldlabs.redgreen.R;
+import com.unfoldlabs.redgreen.model.AlarmModel;
+
+import java.util.Calendar;
+
+public class AlarmManagerHelper{
+	private static SharedPreferences sharedPreferences;
+	private static SharedPreferences.Editor editor;
+	private static final int REQUEST_CODE = 0x1234BF;
+	private static AlarmModel alarm;
+
+	public static void setAlarms(Context context) {
+		sharedPreferences = context.getSharedPreferences("MY_SHARED_PREF",
+				context.MODE_PRIVATE);
+		editor = sharedPreferences.edit();
+		int weekSetting = sharedPreferences.getInt(
+				context.getString(R.string.dialog_txt_sunday), 7);
+		int Hour = sharedPreferences.getInt(
+				context.getString(R.string.Hour), 22);
+		int Minute = sharedPreferences.getInt(
+				context.getString(R.string.Minute), 00);
+		boolean autoCleanMemorySwitch =sharedPreferences.getBoolean(
+				context.getResources().getString(R.string.cleanmemoryswitch), true);
+
+		alarm = new AlarmModel();
+		updateModelFromLayout(weekSetting, Hour, Minute, true);
+		PendingIntent pIntent = createPendingIntent(context);
+		Calendar calendar = Calendar.getInstance();
+		calendar.set(Calendar.HOUR_OF_DAY, Hour);
+		calendar.set(Calendar.MINUTE, Minute);
+		calendar.set(Calendar.SECOND, 00);
+
+		//Find next time to set
+		final int nowDay = Calendar.getInstance().get(Calendar.DAY_OF_WEEK);
+		final int nowHour = Calendar.getInstance().get(Calendar.HOUR_OF_DAY);
+		final int nowMinute = Calendar.getInstance().get(Calendar.MINUTE);
+		boolean alarmSet = false;
+
+		//First check if it's later in the week
+		if (autoCleanMemorySwitch) {
+			for (int dayOfWeek = Calendar.SUNDAY; dayOfWeek <= Calendar.SATURDAY; ++dayOfWeek) {
+				if (alarm.getRepeatingDay(dayOfWeek - 1)
+						&& dayOfWeek >= nowDay
+						&& !(dayOfWeek == nowDay && alarm.timeHour < nowHour)
+						&& !(dayOfWeek == nowDay && alarm.timeHour == nowHour && alarm.timeMinute <= nowMinute)) {
+
+					calendar.set(Calendar.DAY_OF_WEEK, dayOfWeek);
+					setAlarm(context, calendar, pIntent);
+					alarmSet = true;
+					break;
+				}
+			}
+
+			// Else check if it's earlier in the week
+			if (!alarmSet) {
+				for (int dayOfWeek = Calendar.SUNDAY; dayOfWeek <= Calendar.SATURDAY; ++dayOfWeek) {
+					if (alarm.getRepeatingDay(dayOfWeek - 1)
+							&& dayOfWeek <= nowDay && alarm.repeatWeekly) {
+						calendar.set(Calendar.DAY_OF_WEEK, dayOfWeek) ;
+						calendar.add(Calendar.WEEK_OF_YEAR, 1);
+
+						setAlarm(context, calendar, pIntent);
+						alarmSet = true;
+						break;
+					}
+				}
+			}
+		}
+		else {
+			CancelAlarm(context, calendar, pIntent);
+		}
+	}
+
+
+	@SuppressLint("NewApi")
+	private static void setAlarm(Context context, Calendar calendar, PendingIntent pIntent) {
+		AlarmManager alarmManager = (AlarmManager) context.getSystemService(Context.ALARM_SERVICE);
+		if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.KITKAT) {
+			alarmManager.setExact(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), pIntent);
+		} else {
+			alarmManager.set(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), pIntent);
+		}
+	}
+	public static void CancelAlarm(Context context, Calendar calendar, PendingIntent pIntent)
+	{
+		AlarmManager alarmManager = (AlarmManager) context.getSystemService(Context.ALARM_SERVICE);
+		alarmManager.cancel(pIntent);
+	}
+
+
+	private static PendingIntent createPendingIntent(Context context) {
+		Intent alarmIntent = new Intent(context, SpeedBoosterReciever.class);
+		final int _id = (int) System.currentTimeMillis();
+		PendingIntent pendingIntent = PendingIntent.getBroadcast(context, _id, alarmIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+		return pendingIntent;
+	}
+	private static void updateModelFromLayout(int day, int hour, int minute,boolean status) {
+		alarm.timeMinute = minute;
+		alarm.timeHour = hour;
+		alarm.repeatWeekly = true;
+
+		alarm.setRepeatingDay(AlarmModel.SUNDAY,sharedPreferences.getBoolean("SUNDAY", false));
+		alarm.setRepeatingDay(AlarmModel.MONDAY, sharedPreferences.getBoolean("MONDAY", false));
+		alarm.setRepeatingDay(AlarmModel.TUESDAY, sharedPreferences.getBoolean("TUESDAY", false));
+		alarm.setRepeatingDay(AlarmModel.WEDNESDAY, sharedPreferences.getBoolean("WEDNESDAY", false));
+		alarm.setRepeatingDay(AlarmModel.THURSDAY,sharedPreferences.getBoolean("THURSDAY", false));
+		alarm.setRepeatingDay(AlarmModel.FRDIAY, sharedPreferences.getBoolean("FRDIAY", false));
+		alarm.setRepeatingDay(AlarmModel.SATURDAY, sharedPreferences.getBoolean("SATURDAY", true));
+		alarm.isEnabled = status;
+	}
+
+}

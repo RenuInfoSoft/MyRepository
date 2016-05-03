@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.unfoldlabs.redgreen.applock.lock.PasswordView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:numlock="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/passwordView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@android:color/transparent"
+    android:paddingTop="@dimen/fifteen_dp"
+    android:scrollbars="vertical"
+    app:cols="3"
+    app:rows="5"
+    numlock:horizontalSpacing="@dimen/fifteen_dp"
+    numlock:squareChildren="true"
+    numlock:verticalSpacing="@dimen/fifteen_dp" >
+
+    <Button
+        android:id="@+id/numlock_b1"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num1" />
+
+    <Button
+        android:id="@+id/numlock_b2"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num2" />
+
+    <Button
+        android:id="@+id/numlock_b3"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num3" />
+
+    <Button
+        android:id="@+id/numlock_b4"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num4" />
+
+    <Button
+        android:id="@+id/numlock_b5"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num5" />
+
+    <Button
+        android:id="@+id/numlock_b6"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num6" />
+
+    <Button
+        android:id="@+id/numlock_b7"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num7" />
+
+    <Button
+        android:id="@+id/numlock_b8"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num8" />
+
+    <Button
+        android:id="@+id/numlock_b9"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num9" />
+
+    <Button
+        android:id="@+id/numlock_bLeft"
+        style="@drawable/ic_action_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_action_cancel"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/numlock_b0"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/num0" />
+
+    <Button
+        android:id="@+id/numlock_bRight"
+        style="@style/btnimage_viewlock_number" />
+
+    <Button
+        android:id="@+id/numlock_unwanted_1"
+        style="@style/btnimage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/sixteen_sp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/numlock_Next_Confirm"
+        style="@style/btnimage_viewlock_number"
+        android:text="@string/confirm" />
+
+    <Button
+        android:id="@+id/numlock_unwanted_2"
+        style="@style/btnimage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:textSize="@dimen/sixteen_sp"
+        android:visibility="gone" />
+
+</com.unfoldlabs.redgreen.applock.lock.PasswordView>

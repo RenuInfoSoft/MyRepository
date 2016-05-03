@@ -1,0 +1,33 @@
+package com.unfoldlabs.redgreen.interfaces;
+
+public interface Constants {
+
+	public static final String DB_NAME = "redgreen.sqlite"; 
+	public static final int APP_UNINSTALL_REQUEST = 100; 
+	
+
+	public static final int RECOMENDED_RESULT_CODE = 100; 
+	public static final int CLEANAPP_RESULT_CODE = 101; 
+	public static final int APPLOCK_RESULT_CODE = 102; 
+	
+	public final int DEFAULT_SELECTION_DAYS = 0;
+
+	public static final String share = "I tried RedGreen on Android and it is awesome  thought you would love it too  download it at https://play.google.com/store/apps/details?id=com.unfoldlabs.redgreen&hl=en";
+
+	public static boolean IGNORE_SERVICE_FRONT_APP = false;
+
+	public static int SECURITY_LEVEL = 0;
+	public static final int SECURITY_LEVEL_HIGH = 0;
+	public static final int SECURITY_LEVEL_LOW = 10;
+	public static final int SECURITY_LEVEL_MEDIUM = 5;
+
+	/** Applocl constants **/
+	public static String MyPREFERENCES = "REDPrefs" ;
+	public static final boolean DEBUG = false;
+	public static final int APPS_PER_INTERSTITIAL = 1;
+	public static final String POSTURL = "http://52.26.73.211:8080/unfoldlabs-api/rest/user/applock";
+	public static final String MATHES = "^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z ]{2,})$";
+
+
+	public static int mNotificationId = 001;
+}

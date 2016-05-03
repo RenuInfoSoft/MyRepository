@@ -1,0 +1,12 @@
+package com.unfoldlabs.redgreen.interfaces;
+
+import android.util.SparseBooleanArray;
+
+public interface SaveBatteryListener {
+	public void expandGroupEvent(int groupPosition, boolean isExpanded);
+
+	public void GroupItemSelection(SparseBooleanArray systemAppsArray,
+			SparseBooleanArray bagroundAppsArray, SparseBooleanArray memoryBoostArray);
+
+	public void getBackRoundApps();
+}

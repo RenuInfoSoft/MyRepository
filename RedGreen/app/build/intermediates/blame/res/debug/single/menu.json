@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\22April_StudioRedGreen\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\apps.xml",
+        "source": "E:\\22April_StudioRedGreen\\RedGreen\\app\\src\\main\\res\\menu\\apps.xml"
+    },
+    {
+        "merged": "E:\\22April_StudioRedGreen\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_menu.xml",
+        "source": "E:\\22April_StudioRedGreen\\RedGreen\\app\\src\\main\\res\\menu\\settings_menu.xml"
+    }
+]

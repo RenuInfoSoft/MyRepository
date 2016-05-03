@@ -1,0 +1,19 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/passwordTextView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="left|center_vertical"
+    android:background="@color/app_lock_green"
+    android:drawableRight="@drawable/app_lock_password_logo"
+    android:enabled="false"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:gravity="left|start|center_vertical"
+    android:inputType="textPassword"
+    android:maxLength="4"
+    android:paddingLeft="@dimen/five_dp"
+    android:paddingRight="@dimen/five_dp"
+    android:textColor="@color/app_lock_white"
+    android:textSize="@dimen/sixteen_sp" >
+
+</TextView>

@@ -1,0 +1,16 @@
+package com.unfoldlabs.redgreen.interfaces;
+
+import android.util.SparseBooleanArray;
+
+public interface TotalListener {
+
+	public void expandGroupEvent(int groupPosition, boolean isExpanded);
+
+	public void GroupItemSelection(SparseBooleanArray cleanMemory,
+			SparseBooleanArray memoryBoost, SparseBooleanArray history);
+
+	public void setHistoryState(boolean historyState);
+	
+	public void getUpdateSelectedRam(int sumFinal);
+
+}

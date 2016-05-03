@@ -1,0 +1,33 @@
+package com.unfoldlabs.redgreen.receiver;
+
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+
+import com.unfoldlabs.redgreen.service.RedGreenService;
+
+public class SpeedBoosterReciever extends BroadcastReceiver {
+
+	private Context context;
+	private SharedPreferences sharedPreferences;
+	private SharedPreferences.Editor editor;
+	private int SkipIdCleaner = 0;
+
+	@Override
+	public void onReceive(Context context, Intent intent) {
+		this.context = context;
+		sendIntentService();
+	}
+
+	private void sendIntentService() {
+		//no matter how many times start service, it will only execure onStartCommand method only if service already running.
+		Intent intent = new Intent(context, RedGreenService.class);
+		intent.putExtra("send", "send");
+		context.startService(intent);
+
+	}
+
+
+
+}

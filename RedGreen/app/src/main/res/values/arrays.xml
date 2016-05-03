@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="usageaction_list">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+    <string-array name="list_of_savebatteryapps">
+        <item>Bluetooth</item>
+        <item>Brightness</item>
+        <item>Screen Timeout</item>
+    </string-array>
+    <string-array name="list_of_savebatteryicons">
+        <item>@drawable/bluetooth</item>
+        <item>@drawable/brightness</item>
+        <item>@drawable/screen_timeout</item>
+    </string-array>
+    <string-array name="list_of_autoClean">
+        <item>&#160;1 &#160;Week</item>
+        <item>15 Days</item>
+        <item>&#160;1 &#160;Month</item>
+        <item>Auto Clean OFF</item>
+    </string-array>
+    <string-array name="drawer_items">
+        <item>SETTINGS</item>
+        <item>Home Screen - List View</item>
+        <item>App Manager - Automatic Settings</item>
+        <item>Boost - Schedule Automatically</item>
+        <item>Boost - Based on Memory</item>
+        <item>Notifications</item>
+        <item>Rate Us On Google Play</item>
+        <item>Recommend Us</item>
+        <item>Savings So Far</item>
+        <item>Get AppLock Password</item>
+        <item>About Us</item>
+    </string-array>
+
+</resources>

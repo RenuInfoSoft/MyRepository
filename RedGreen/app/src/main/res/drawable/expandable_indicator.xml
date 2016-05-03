@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_expanded="true"><layer-list>
+            <item android:bottom="11dp"
+                 android:drawable="@drawable/exp_up" 
+                 android:left="@dimen/four_dp" 
+                 android:right="@dimen/four_dp" 
+                 android:top="14dp"></item>
+        </layer-list></item>
+    <item android:state_empty="true"><layer-list>
+            <item android:bottom="11dp" 
+                android:drawable="@drawable/exp_down" 
+                android:left="@dimen/four_dp" 
+                android:right="@dimen/four_dp" 
+                android:top="14dp"></item>
+        </layer-list></item>
+
+</selector>

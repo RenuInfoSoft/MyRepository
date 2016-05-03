@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/clean_app_frg_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_lock_green"
+        android:gravity="center"
+        android:paddingBottom="@dimen/five_dp"
+        android:paddingTop="@dimen/five_dp" >
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/one_dp"
+            android:layout_marginRight="@dimen/one_dp"
+            android:layout_toLeftOf="@+id/uninstall_list_checked_size_total"
+            android:text="/"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <CheckBox
+            android:id="@+id/chk_uninstall_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:button="@drawable/checkbox_header_frame"
+            android:gravity="center_vertical"
+            android:padding="@dimen/five_dp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentLeft="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/nine_teen_dp"
+            android:gravity="center"
+            android:text="@string/apps_title"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/uninstall_list_checked_size_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/text"
+            android:layout_alignBottom="@+id/text"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/chk_uninstall_header"
+            android:text="0.0 MB"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <TextView
+            android:id="@+id/uninstall_list_checked_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/text"
+            android:text="0.0 MB"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sixteen_sp" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/app_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/sixty_dp"
+        android:layout_marginTop="@dimen/forty_one_dp" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/txt_noapps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/noappspresent"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_uninstall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/five_dp"
+        android:background="@drawable/button_hdpi"
+        android:text="@string/uninsatall_apps"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

@@ -1,0 +1,1106 @@
+[
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bluetooth.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_bg.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_bg.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gd_action_bar_add.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\gd_action_bar_add.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_holo_light.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sms_hover.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\sms_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ok_button.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ok_button.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_brand_logo.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bg_brand_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loadingicon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\loadingicon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_hover.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\camera_hover.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_refresh.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_splash.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_security_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_security_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cancel.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_bg.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_bg.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_tick.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_tick.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_box.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\dlg_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_img_bacground.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\splash_img_bacground.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_on.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\calender.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\calender.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_save_battery.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\arrow_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\datatype_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\datatype_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_button_forget_password_on.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\radio_button_forget_password_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\applock.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\applock.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_off.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\switch_off.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gps.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\gps.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_log.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\call_log.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unselected_circle.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\unselected_circle.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_security_list_bg.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_security_list_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dotted_line_480px.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\dotted_line_480px.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\datasecurity.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\datasecurity.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_based.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\app_based.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_save_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\battery_save_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\screen_timeout.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\screen_timeout.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\calender_hover.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\calender_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_memory_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\clean_memory_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_on_light.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_on_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_app_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\clean_app_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\selected_circle.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\selected_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\save_battery.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\save_battery.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cancel.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_screen_image.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\splash_screen_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_icon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\action_bar_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_img_circle.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\splash_img_circle.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_delete.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_off_light_white.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_off_light_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_box.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\dlg_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loadingicon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\loadingicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\datatype_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\datatype_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notifications_logo.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\notifications_logo.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_clear_memory.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_clear_memory.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_green_off_light.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_green_off_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sms.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\sms.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speed_boost_grid.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\speed_boost_grid.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baground.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\baground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\datasecurity_background.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\datasecurity_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_type_button.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_type_button.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_radio_button_unchecked_white_24dp.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_radio_button_unchecked_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_holo_light.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_hover.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\contact_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speed_boost.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\speed_boost.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sms_hover.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\sms_hover.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_security.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_security.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\batterysaver.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\batterysaver.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_clean_app.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_clean_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exp_down.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\exp_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_lock_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\app_lock_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_app_lock.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_app_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_arrow.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_icon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_screen_image.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\splash_screen_image.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speedbooster.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\speedbooster.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_icon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_arrow.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\selected_circle.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\selected_circle.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_baground.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_baground.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\calender_hover.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\calender_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_delete.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_cache_cleaner.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_cache_cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleanapp.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\cleanapp.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\forgot_password_icon_new_size.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\forgot_password_icon_new_size.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_app_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\clean_app_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\forgot_password_icon_new_size.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\forgot_password_icon_new_size.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\contact.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\datasecurity_background.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\datasecurity_background.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hdpi_bg_list.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\hdpi_bg_list.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_radio_button_unchecked_white_24dp.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_radio_button_unchecked_white_24dp.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_on_light.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_on_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\savebattery.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\savebattery.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_confirm.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_confirm.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_confirm.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_icon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\action_bar_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\arrow_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baground.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\baground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gd_action_bar_add.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\gd_action_bar_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_security_list_bg.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_security_list_bg.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_hover.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\contact_hover.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\memory_manager.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\memory_manager.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_icon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bg_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\appbased_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\appbased_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cleaner.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\img_cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_refresh.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_green_on_light.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_green_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_data_security.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_data_security.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_launcher.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\my_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_img_circle.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\splash_img_circle.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_logo.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filter_icon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\filter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_holo.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_logo.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_based.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\app_based.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\datasecurity.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\datasecurity.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exp_up.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\exp_up.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_app.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\clean_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_save_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\battery_save_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\memory_manager.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\memory_manager.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speed_boost.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\speed_boost.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dotted_line_480px.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\dotted_line_480px.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_launcher.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\my_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_img_bacground.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\splash_img_bacground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\forgot_password_icon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\forgot_password_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_app.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\clean_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_app_lock.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_app_lock.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_lock_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\app_lock_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_security_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_security_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exp_down.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\exp_down.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_memory_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\clean_memory_list.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio_button_forget_password_on.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\radio_button_forget_password_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cleaner.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\img_cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gps.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\gps.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unselected_circle.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\unselected_circle.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_next.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hdpi_bg_list.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\hdpi_bg_list.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_on.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_green_off_light.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_green_off_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_save_battery.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_battery.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_cache_cleaner.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_cache_cleaner.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_security.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_security.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_splash.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bg_splash.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\forgot_password_icon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\forgot_password_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_splash.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\img_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_icon.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\appbased_list.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\appbased_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_services_hover.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\location_services_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_list.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bg_list.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_clear_memory.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_clear_memory.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_baground.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_baground.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ok_button.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ok_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bluetooth.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\save_battery.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\save_battery.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filter_icon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\filter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\calender.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\calender.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_clean_app.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_clean_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_splash.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\img_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_tick.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_tick.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_on_white.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_on_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\savebattery.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\savebattery.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_brand_logo.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\bg_brand_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_services.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\location_services.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_services.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\location_services.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_off_light.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_log.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\call_log.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_off_light.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_off_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_log_hover.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\call_log_hover.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_off.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\switch_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\brightness.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\data_type_button.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\data_type_button.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_off_light_white.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_off_light_white.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\brightness.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cleanapp.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\cleanapp.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_icon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\batterysaver.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\batterysaver.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speedbooster.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\speedbooster.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_next.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_to_on_white.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_to_on_white.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call_log_hover.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\call_log_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_services_hover.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\location_services_hover.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_icon.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_data_security.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\ic_data_security.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exp_up.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\exp_up.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\applock.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\applock.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_hover.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\camera_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sms.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\sms.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speed_boost_grid.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\speed_boost_grid.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\screen_timeout.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\screen_timeout.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notifications_logo.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\notifications_logo.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_holo.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Kiranmai\\Desktop\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_check_green_on_light.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_green_on_light.png"
+    },
+    {
+        "merged": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\StudioRedgreen\\trunk\\RedGreen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

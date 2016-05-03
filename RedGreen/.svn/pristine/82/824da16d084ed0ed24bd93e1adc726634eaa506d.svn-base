@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_lock_green"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <EditText
+        android:id="@+id/passwordTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|center_vertical"
+        android:layout_weight="1"
+        android:background="@color/app_lock_green"
+        android:enabled="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="left|start|center_vertical"
+        android:inputType="textPassword"
+        android:maxLength="4"
+        android:paddingLeft="@dimen/five_dp"
+        android:paddingRight="@dimen/five_dp"
+        android:textColor="@color/app_lock_white"
+        android:textStyle="bold"
+        android:textSize="@dimen/thirty_sp" />
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/five_dp"
+        android:background="@drawable/app_lock_password_logo"
+        android:gravity="center"
+        android:visibility="gone"
+        android:padding="@dimen/five_dp" />
+
+</LinearLayout>

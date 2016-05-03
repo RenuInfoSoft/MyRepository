@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+ <!-- Globals -->
+ <string name="app_name">RedGreen</string>
+ <string name="not_implemented">Feature Not Implemented.</string>
+ <string name="exit_text">Do you want to quit RedGreen ?</string>
+ <string name="thanx_for_using_redGreen">Thank you for using RedGreen</string>
+ <string name="notification_dialog_txt">Notification Settings</string>
+ <string name="error_copying_database">Error while coping the database:</string>
+ <string name="cancel">Cancel</string>
+ <string name="applock_texttt">You are using Android Version 5.0 and above.
+        Please add RedGreen to Apps with Usage Access in Settings / Security. Thanks</string>
+ <!--Facebook-->
+ <string name="facebook_app_id">1093212714056747</string>
+
+ <!-- Easy Tracker Strings -->
+ <!-- Home Screen Easy Tracker Strings -->
+ <string name="splash_screen">SplashScreen Activity</string>
+ <string name="splash_screen_navigate">Navigating To Home Activity</string>
+ <string name="splash_screen_entered">Splash Screen - Entered</string>
+ <string name="splash_screen_inserting_apps">Splash screen - Inserting all installed Apps </string>
+ <string name="home_type_grid">HomeScreen-GridView</string>
+ <string name="home_type_grid_navigate">Navigating to Home Screen-GridView</string>
+ <string name="home_type_list">HomeScreen-ListView</string>
+ <string name="home_type_list_navigate">Navigating to Home Screen-ListView</string>
+ <string name="notifications_activity">Notifications Activity</string>
+ <string name="notifications_activity_navigate">Navigating to Notifications Activity</string>
+ <string name="rate_us_google_play_dialog">Rate Us On Google Play</string>
+ <string name="rate_us_google_play_dialog_navigate">Navigating to Rate Us on Google Play</string>
+ <string name="recommend_us_activity">Recommend Us Activity</string>
+ <string name="recommend_us_activity_navigate">Navigating to Recommend Us Activity</string>
+ <string name="saving_so_far_dialog">Savings So Far</string>
+ <string name="saving_so_far_dialog_navigate">Navigating to Savings So Far</string>
+ <string name="about_us_page">AboutUs</string>
+ <string name="about_us_page_navigate">Navigating to AboutUs</string>
+ <string name="home_screen">Home Screen</string>
+ <string name="home_screen_about_us_displayed">Home screen - AboutUs Activity displayed</string>
+ <string name="home_screen_about_us_terms_conditions_exit">Home screen - AboutUs Terms and Conditions Exit </string>
+ <string name="home_screen_about_us_terms_conditions_displyed">Home screen - AboutUs Terms and Conditions displayed</string>
+ <string name="home_screen_rate_us_dialogue_diaplayed">Home screen - Rate Us dialogue displayed </string>
+ <string name="home_screen_savingsofar_dialogue_diaplayed">Home screen - Saving So far dialogue displayed</string>
+ <string name="home_screen_notification_dialogue_diaplayed">Home screen - Notification dialogue displayed </string>
+ <string name="home_screen_applock_usagestates_dialogue_displad">Home Screen - App Lock Usage states Dialogue entered</string>
+ <string name="home_screen_appmanager_usagestates_dialogue_displad">Home Screen - App Manager Usage states Dialogue entered</string>
+ <string name="home_screen_get_storage_details">Home screen - Getting ROM/Storage details</string>
+ <string name="sorting_dialog_done_button">Sorting done as per user requirement</string>
+
+ <!-- App Lock Easy Tracker Strings -->
+ <string name="app_lock_screen">App Lock Activity</string>
+ <string name="app_lock_screen_navigate">Navigating to AppLock Activity</string>
+ <string name="set_newpassword_cancel">Set New Password Screen</string>
+ <string name="set_newpassword_cancel_button">Closing The Set New Password Screen </string>
+ <string name="set_newpassword_confirm">Set New Password Screen</string>
+ <string name="change_lock">Change Lock</string>
+ <string name="change_lock_navigate">To change the app lock password </string>
+ <string name="app_lock">App Lock</string>
+ <string name="app_lock_button">It Locks All The Apps </string>
+ <string name="app_unlock">App Un Lock</string>
+ <string name="app_unlock_button">It Un Locks All The Apps </string>
+ <string name="set_email_activity">Set Email Activity</string>
+ <string name="set_email_activity_done_button">Gets user Mail Id, AppLock Password and Device Id</string>
+ <string name="app_lock_set_for_applications">App Lock - Lock Screen Set for Applications</string>
+ <string name="app_lock_forgot_password_sent_email">App Lock - Forgot password sent to Email</string>
+ <string name="app_lock_deep_linking">App Lock - Deep Linking navigate to Home activity</string>
+ <string name="app_lock_pin_success_applist">App Lock - Lock PIN Successfully opened navigate to Apps List</string>
+ <string name="app_lock_appslist_ext_time">App Lock - Lock Set for Applications Screen ExitTime </string>
+ <string name="app_lock_set_pin">Set App lock Pin entered</string>
+ <string name="app_lock_set_pin_exit">Set AppLock pin screen Exit</string>
+ <string name="app_lock_next_button">Set AppLock pin next button</string>
+ <string name="app_lock_enter_pin_screen">App Lock Enter password Screen to enter PIN</string>
+ <string name="applock_set_email_exit">App Lock Set Email Screen ExitTime </string>
+
+ <!-- Save Battery Easy Tracker Strings -->
+ <string name="setting_dialog_done_button">Save Battery Setting done as per user requirement</string>
+ <string name="battery_save_click_function">Save Battery button Functionality Done</string>
+ <string name="save_battery_activity">Save Battery Activity</string>
+ <string name="save_battery_activity_navigate">Navigating to Save Battery Activity</string>
+ <string name="battery_save_dialog_navigate">Save Battery Saving Dialog Closed</string>
+ <string name="save_battery_sorting_dialogue_entered">Save Battery - Save Battery Sorting entered</string>
+ <string name="save_battery_system_apps_selected">Save Battery - System apps are selected</string>
+ <string name="save_battery_apps_selected">Save Battery - Apps are selected </string>
+ <string name="save_battery_cpu_apps_selected">Save Battery - Cpu Cooling apps are selected</string>
+ <string name="save_battery_exit_time">Save Battery - Save Battery ExitTime</string>
+
+ <!-- Speed Booster Easy Tracker Strings -->
+ <string name="auto_speed_booster_dialog_settings">Auto Speed Booster Settings Dialog</string>
+ <string name="auto_speed_booster_dialog_settings_done">Saving settings as per user requirement for Auto Speed Boosting</string>
+ <string name="auto_speed_booster_dialog_settings_switch">Enables repeat options in Auto Speed Booster Settings Dialog</string>
+ <string name="auto_speed_dialog">Auto Speed Booster Dialog</string>
+ <string name="auto_speed_dialog_navigate">Navigating to Auto Speed Booster Dialog Box</string>
+ <string name="clean_memory_activity">Clean Memory Activity</string>
+ <string name="clean_memory_activity_navigate">Navigating to Clean Memory Activity</string>
+ <string name="speed_booster_dialog">Speed Booster Dialog</string>
+ <string name="speed_booster_dialog_button">Speed Booster Dialog Functionality Will Be Closed</string>
+ <string name="speed_booster_setting_dialog">Boost Schedule Automatically</string>
+ <string name="speed_booster_by_memory_dialog">Boost Schedule Based On Memory Automatically</string>
+ <string name="speed_booster_memory_based_dialog_title">Boost Schedule Automatically By Memory Dialog</string>
+ <string name="speed_booster_setting_dialogr_dialog_button">Opens Automatically Boost Scheule Window </string>
+ <string name="speed_booster_by_memory_dialogr_dialog_button">Opens Automatically Boost Scheule By Memory Dialog Will be Open </string>
+ <string name="speed_booster_memory_based_dialog_close"> Boost Schedule Automatically By Memory Dialog Will be Closed</string>
+ <string name="automatically_boost_memory">Automatically Boost Memory Dialog</string>
+ <string name="automatically_boost_memory_dialog_button">Perform Automatically Boost Memory As Per Requirement </string>
+
+
+ <!-- SAVE_BATTERY Module Strings-->
+ <string name="save_battery">Save Battery</string>
+ <string name="savebattery_system_apps">System</string>
+ <string name="savebattery_installed_apps">Apps</string>
+ <string name="savebattery_cpucooling">CPU Cooler</string>
+ <string name="savebattery_system_apps_empty">System Apps List Is Empty</string>
+ <string name="savebattery_installed_apps_empty">Apps List Is Empty</string>
+ <string name="savebattery_cpucooling_empty">CPU Cooler List Is Empty</string>
+ <string name="battery_saved_by">Battery Saved By</string>
+ <string name="battery_saved_by_timeout"> \u2022 Screen Timeout</string>
+ <string name="battery_saved_by_shtting_downprocess"> \u2022 Shutting Down Processes</string>
+ <string name="battery_saved_by_approx_battery">Approximate Battery Savings</string>
+ <string name="battery_saved_by_cpu_temp">CPU Temperature Reduced</string>
+ <string name="save_battery_setting_dialog_title">Display Temperature in</string>
+ <string name="save_battery_fahrenheit">Fahrenheit</string>
+ <string name="save_battery_celcius">Celsius</string>
+ <string name="title_menu_fahrenheit">Fahrenheit</string>
+ <string name="title_menu_celsius">Celsius</string>
+ <string name="batterysorting">batterySorting</string>
+ <string name="batterysetting">batterySetting</string>
+ <string name="cpuCoolerTemp">cpuCoolerTeperature</string>
+
+ <!-- App Manager Module Strings-->
+ <string name="dialog_txt">Automatically Uninstall Apps not Used for</string>
+ <string name="week">1 Week</string>
+ <string name="days">15 Days</string>
+ <string name="month">1 Month</string>
+ <string name="we_detected">We detected..</string>
+ <string name="noappspresent">No Apps To Uninstall</string>
+ <string name="uninsatall_apps">Uninstall</string>
+ <string name="do_not_delete_apps">Move to Do Not Delete Apps List</string>
+ <string name="ask_before_delete">Ask Before Deleting</string>
+ <string name="repeat">Repeat</string>
+ <string name="auto_clean">App Manager - Automatic Settings</string>
+ <string name="title_activity_donot_delete_apps">Do Not Delete Apps</string>
+ <string name="on">ON</string>
+ <string name="off">OFF</string>
+ <string name="cleanAppSorting">cleanAppSorting</string>
+ <string name="cleanAppSortingType">cleanAppSortingtype</string>
+ <string name="cleanapp_pref">CleanApp_Pref</string>
+ <string name="cleanapp_count">CleanApp_Count</string>
+ <string name="cleanapp_state">CleanApp_State</string>
+ <string name="cleanappswitch">cleanAppSwitch</string>
+ <string name="auto_clean_dialog">Auto Clean Dialog</string>
+ <string name="auto_clean_dialog_navigate">Navigating to Auto Clean Dialog Box</string>
+ <string name="clean_app_activity">Clean App Activity</string>
+ <string name="clean_app_activity_navigate">App Usage Exit Navigating to Clean App Activity</string>
+ <string name="app_manager">App Manager</string>
+ <string name="app_manager_activity_diaplayed"> App Manager - Activity displayed</string>
+ <string name="app_manager_uninstall_button_clicked">App Manager - UnInstall Button Clicked </string>
+ <string name="app_manager_all_installed_apps_selected">App Manager - All installed Apps are Selected</string>
+ <string name="app_manager_all_donot_apps_selected">App Manager - All Do-not delete Apps are Selected </string>
+ <string name="app_manager_exit_time">App manager Exit Time </string>
+ <string name="app_manager_sorting_dialogue_displayed">App Manager - Sorting Dialogue displayed </string>
+ <string name="app_manager_setting_dialogue_displayed">App Manager - Auto Setting Dialogue displayed</string>
+ <string name="app_manager_sorting_done_name">App Manager - Sorting Done using Name</string>
+ <string name="app_manager_sorting_done_lastused_time">App Manager - Sorting done using last used time and date </string>
+ <string name="app_manager_sorting_done_button_clicked">App Manager - Sorting dialogue Done button clicked</string>
+ <string name="app_manager_auto_setting_repeat_week">App Manager - Auto Setting Repeat for Week</string>
+ <string name="app_manager_auto_setting_repeat_biweek">App Manager - Auto Setting Repeat for 15 Days</string>
+ <string name="app_manager_auto_setting_repeat_month"> App Manager - Auto Setting Repeat for 1 Month</string>
+ <string name="app_manager_auto_setting_ask_before_on">App Manager - Auto Setting Ask Before delete ON</string>
+ <string name="app_manager_auto_setting_ask_before_off">App Manager - Auto Setting Ask Before delete OFF</string>
+ <string name="app_manager_auto_setting_dialogue_done_button_clicked">App Manager - Auto Setting Dialogue done button clicked</string>
+ <string name="app_manager_auto_setting_dialogue_switch">App Manager - Auto Setting Dialogue Switch</string>
+
+ <!-- AppLock Module Strings -->
+ <string name="lock_tv_text">App Lock</string>
+ <string name="applock_setemail_text">Enter your Email ID </string>
+ <string name="applock_setemail_text_note">In case you forget your password it will be sent to the email address entered above.</string>
+ <string name="applock_email">Email</string>
+ <string name="applock_valid_email_error">Enter Valid Email Id</string>
+ <string name="set_email_done_button">Done</string>
+ <string name="enterpassword">Please Enter Password</string>
+ <string name="password_change_tit">Set New Password</string>
+ <string name="password_change_head">Enter a 4 digit unlock password</string>
+ <string name="password_change_confirm">Enter the password again to confirm</string>
+ <string name="nav_change">Change App Lock Password</string>
+ <string name="applist_tit_apps">Apps</string>
+ <string name="applist_tit_important">Important</string>
+ <string name="applist_tit_system">System</string>
+ <string name="applist_app_pkginstaller">App install/uninstall</string>
+ <string name="apps_menu_sort">Sort</string>
+ <string name="apps_menu_lock_all">Lock all</string>
+ <string name="apps_menu_unlock_all">Unlock all</string>
+ <string name="menu_settings">Settings</string>
+ <string name="num1">1</string>
+ <string name="num2">2</string>
+ <string name="num3">3</string>
+ <string name="num4">4</string>
+ <string name="num5">5</string>
+ <string name="num6">6</string>
+ <string name="num7">7</string>
+ <string name="num8">8</string>
+ <string name="num9">9</string>
+ <string name="num0">0</string>
+ <string name="confirm">Confirm</string>
+ <string name="forgot_email_done">doneforgotEmail</string>
+ <string name="forgot_email_done_status">doneforgotEmailStatus</string>
+
+ <!-- Speed Booster Module Strings-->
+ <string name="browser_history_empty">Browser History Is Empty</string>
+ <string name="ramboost_list_empty">Memory/RAM Boost Is Empty</string>
+ <string name="background_apps_list_empty">Background Apps Is Empty</string>
+ <string name="dialog_txt_speed_boost">Automatically Boost Memory Every</string>
+ <string name="boost_by_memory_dialog_txt_heading">Automatically Boost Memory When</string>
+ <string name="dialog_txt_weekly">Weekly</string>
+ <string name="dialog_txt_bi_weekly">Bi-Weekly</string>
+ <string name="dialog_txt_monthly">Monthly</string>
+ <string name="dialog_txt_REPEAT">REPEAT</string>
+ <string name="Hour">Hour</string>
+ <string name="Minute">Minute</string>
+ <string name="ON">Off/On</string>
+ <string name="dialog_txt_sunday">Sunday</string>
+ <string name="dialog_txt_monday">Monday</string>
+ <string name="dialog_txt_tuesday">Tuesday</string>
+ <string name="dialog_txt_wednusday">Wednesday</string>
+ <string name="dialog_txt_thursday">Thursday</string>
+ <string name="dialog_txt_friday">Friday</string>
+ <string name="dialog_txt_saturday">Saturday</string>
+ <string name="menu_boost_auto_speed_setting">Boost - Schedule Automatically</string>
+ <string name="menu_boost_auto_speed_memory">Boost - Based On Memory</string>
+ <string name="done">Done</string>
+ <string name="time">Time</string>
+ <string name="speed_boosted_by">Speed Boosted By</string>
+ <string name="speed_boosted_junkfiles"> \u2022 Deleting Residual/Junk Files</string>
+ <string name="speed_boosted_history"> \u2022 Clearing Browser History</string>
+ <string name="speed_boosted_baground"> \u2022 Ending Background Processes</string>
+ <string name="speed_boosted_startup"> \u2022 Ending Startup Processes</string>
+ <string name="speed_boosted_saveddata">Saved Data</string>
+ <string name="speed_boosted_yousaved"> \u2022 You Saved</string>
+ <string name="speed_boosted_of_storage">of Storage and</string>
+ <string name="speed_boosted_of_memory">of Memory.</string>
+ <string name="storage_rom">Storage/ROM</string>
+ <string name="memory_ram">Memory/RAM</string>
+ <string name="browse_history">Clear Browser History</string>
+ <string name="speed_booster">Speed Booster</string>
+ <string name="clean_memory">Background Apps</string>
+ <string name="clean_cache">Residual/Junk Files</string>
+ <string name="clipboarddata">Clipboard Data Clean</string>
+ <string name="memory_boost">Memory/RAM Boost</string>
+ <string name="clean_storage">Clean Storage/Memory</string>
+ <string name="resid_junk_cache">Residual/Junk/Cache Files >=</string>
+ <string name="cleanmemory_pref">CleanMemory_Pref</string>
+ <string name="cleanmem_count">CleanMem_Count</string>
+ <string name="cleanmem_state">CleanMem_State</string>
+ <string name="cleanmemoryswitch">cleanMemorySwitch</string>
+ <string name="speedBoosterSorting">speedBoosterSorting</string>
+ <string name="speedBoosterSortingType">speedBoosterSortingtype</string>
+ <string name="analytics_speedbooster_memory_entered">Speed Booster - Automatically Boost memory entered</string>
+ <string name="analytics_speedbooster_memory_repeat_week">Speed Booster - Automatically Boost memory Repeat Week Selected</string>
+ <string name="analytics_speedbooster_memory_repeat_biweek">Speed Booster - Automatically Boost memory Repeat Bi-Week Selected</string>
+ <string name="analytics_speedbooster_memory_repeat_month">Speed Booster - Automatically Boost memory Repeat Month Selected</string>
+ <string name="analytics_speedbooster_by_memory_switch">Speed Booster - Automatically Boost memory Switch is </string>
+ <string name="analytics_speedbooster_screen_opened">Speed Booster Screen is opened</string>
+ <string name="analytics_speedbooster_baground_apps_checked">Speed Booster - Background Apps Checked</string>
+ <string name="analytics_speedbooster_ramboost_checked">Speed Booster - Memory/RAM Boost Checked</string>
+ <string name="analytics_speedbooster_history_checked">Speed Booster - Clear Browse History Checked</string>
+ <string name="analytics_speedbooster_clipdata_checked">Speed Booster - ClipBoard Data Checked</string>
+ <string name="analytics_speedbooster_junk_checked">Speed Booster - Residual / Junk List Checked</string>
+ <string name="analytics_speedbooster_">Speed Booster - Clean Memory Button clicked functionality completed</string>
+ <string name="analytics_speedbooster_button_clicked">Speed Booster Clean Memory Button Clicked Functionality Implementing</string>
+ <string name="analytics_speedbooster_sorting_dialog">Speed Booster - Sorting Dialogue is displayed</string>
+ <string name="analytics_speedbooster_sorting_by_name">Speed Booster - Sorting is done by Name</string>
+ <string name="analytics_speedbooster_sorting_by_size">Speed Booster - Sorting is done by Size</string>
+ <string name="analytics_speedbooster_button_clicked_comepleted">Speed Booster - Clean Memory Button clicked functionality completed</string>
+ <string name="analytics_speedbooster_exit_time">Speed Booster ExitTime</string>
+
+ <!-- Menu XML items -->
+ <string name="action_sort_by">Sort by</string>
+ <string name="action_settings">Settings</string>
+ <string name="saved_auto_clean">SavedAutoClean</string>
+ <string name="ask_bfore_delete">AskBeforeDelete</string>
+ <string name="dialog_setting">DialogSetting</string>
+
+ <!-- Apps list header -->
+ <string name="apps_list_header_title">Device Storage/ROM</string>
+ <string name="apps_list_header_system_prefix">System</string>
+ <string name="apps_list_header_cache_prefix">Cache/Junk Files</string>
+ <string name="apps_list_header_free_prefix">Free</string>
+ <string name="apps_list_header_used_prefix">Used</string>
+ <string name="apps_list_header_footer">App Cache Usage</string>
+ <string name="apps_list_header_memory"><xliff:g id="memory">%1$s</xliff:g></string>
+
+ <!-- 'Sort by' dialog -->
+ <string name="sort_by_title">Sort by</string>
+ <string name="parameter_sort">Parameter</string>
+ <string name="sort_by_name">Name</string>
+ <string name="sort_by_size">Size</string>
+ <string name="sort_by_last_used">Last Used</string>
+ <string name="direction_sort">Direction</string>
+ <string name="sort_in_ascending">Ascending</string>
+ <string name="sort_in_descending">Descending</string>
+ <string name="sort_by_key" translatable="false">sort_by</string>
+ <string name="sort_by_name_des">	Sort by Name &#160;&#160;&#160;&#160;&#160;&#160;&#160;-Descending</string>
+ <string name="sort_by_name_asc">	Sort by Name &#160;&#160;&#160;&#160;&#160;&#160;&#160;-Ascending</string>
+ <string name="sort_by_lastused_des">Sort by Last Used -Descending</string>
+ <string name="sort_by_lastused_asc">Sort by Last Used -Ascending</string>
+ <string name="sort_by_size_asc">	Sort by Size &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-Ascending</string>
+ <string name="sort_by_size_des">	Sort by Size &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-Descending</string>
+ <string name="remove_after_invite">Remove Names After Invite</string>
+ <string name="ok">OK</string>
+
+ <!-- Settings Menu -->
+ <string name="about_us">About Us</string>
+ <string name="grid_view">Home Screen - Grid View</string>
+ <string name="list_view">Home Screen - List View</string>
+ <string name="sharedpreference_key">list</string>
+ <string name="preference_name">Rename</string>
+ <string name="drawer_open">Open navigation drawer</string>
+ <string name="drawer_close">Close navigation drawer</string>
+ <string name="notification_on">Notifications ON</string>
+ <string name="notification_off">Notifications OFF</string>
+
+ <!-- App Rate -->
+ <string name="rate_dialog_message_part1">Hi, Please take a minute to rate </string>
+ <string name="rate_dialog_message_part2">and help us to improve.</string>
+ <string name="rate_dialog_title">Rate </string>
+ <string name="rate_dialog_rate_now">Rate Now</string>
+ <string name="rate_dialog_later">Later</string>
+ <string name="rate_dialog_no_thanks">No, thanks</string>
+ <!-- Saving So far -->
+ <string name="your_saving_so_far">Your Savings Last Month :</string>
+ <string name="null_gb">0 : 00 MB</string>
+ <string name="Cache">Storage/ROM\u0020\u0020:\u0020</string>
+ <string name="ram_cleaned">Memory/RAM\u0020:\u0020</string>
+ <string name="last_cleaned_date">Last Cleaned On : </string>
+ <string name="null_date">00 : 00 : 00</string>
+
+</resources>

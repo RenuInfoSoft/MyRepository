@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/fourty_dp"
+    android:background="@color/app_lock_green"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/expListHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/childchecked_size"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/twenty_seven_dp"
+        android:text="Group"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/childchecked_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/five_dp"
+        android:layout_toLeftOf="@+id/group_chk_box"
+        android:text="Size"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/thirteen_sp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <CheckBox
+        android:id="@+id/group_chk_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:button="@drawable/checkbox_header_frame"
+        android:padding="@dimen/five_dp"
+        android:visibility="visible" />
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/applist_item_category"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/item_selected_bg"
+    android:paddingBottom="@dimen/eight_dp"
+    android:paddingLeft="@dimen/eight_dp"
+    android:paddingRight="@dimen/eight_dp"
+    android:paddingTop="@dimen/eight_dp" >
+
+    <!-- android:background="#2c3e50" -->
+
+    <TextView
+        android:id="@+id/listName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/listIcon"
+        android:textColor="@color/app_lock_white"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

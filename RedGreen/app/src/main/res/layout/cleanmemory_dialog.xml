@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/ten_dp"
+            android:orientation="horizontal"
+            android:padding="@dimen/two_dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/eight_dp"
+                android:layout_marginRight="@dimen/five_dp"
+                android:text="@string/dialog_txt_speed_boost"
+                android:textColor="@color/app_lock_green"
+                android:textSize="@dimen/sixteen_sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/one_dp"
+            android:background="@android:color/holo_green_dark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:isScrollContainer="true"
+            android:orientation="vertical" >
+
+            <Switch
+                android:id="@+id/clenmemory_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:checked="true"
+                android:clickable="true"
+                android:focusable="false"
+                android:scaleType="centerInside"
+                android:visibility="visible" />
+            <CheckBox
+                android:id="@+id/sunday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_sunday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <CheckBox
+                android:id="@+id/monday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_monday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <CheckBox
+                android:id="@+id/tuesday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_tuesday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <CheckBox
+                android:id="@+id/wednsday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_wednusday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <CheckBox
+                android:id="@+id/thursday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_thursday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <CheckBox
+                android:id="@+id/friday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_friday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <CheckBox
+                android:id="@+id/saturday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_txt_saturday"
+                android:textSize="@dimen/sixteen_sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/two_dp"
+                android:layout_marginLeft="@dimen/eight_dp"
+                android:layout_marginTop="@dimen/six_dp"
+                android:padding="@dimen/two_dp"
+                android:text="@string/repeat"
+                android:textColor="@color/app_lock_green"
+                android:textSize="@dimen/sixteen_sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/one_dp"
+                android:background="@color/light_green_txt_color" />
+
+            <RadioGroup
+                android:id="@+id/repeat_cln_mem_grp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/two_dp" >
+
+                <RadioButton
+                    android:id="@+id/repeat_cln_week"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="@string/dialog_txt_weekly"
+                    android:textSize="@dimen/sixteen_sp" />
+
+                <RadioButton
+                    android:id="@+id/repeat_cln_biweekly"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dialog_txt_bi_weekly"
+                    android:textSize="@dimen/sixteen_sp" />
+
+                <RadioButton
+                    android:id="@+id/repeat_cln_month"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dialog_txt_monthly"
+                    android:textSize="@dimen/sixteen_sp" />
+            </RadioGroup>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/two_dp"
+                android:layout_marginLeft="@dimen/eight_dp"
+                android:layout_marginTop="@dimen/six_dp"
+                android:padding="@dimen/two_dp"
+                android:text="@string/time"
+                android:textColor="@color/app_lock_green"
+                android:textSize="@dimen/sixteen_sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/one_dp"
+                android:background="@color/light_green_txt_color" />
+
+            <TimePicker
+                android:id="@+id/timePicker1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:timePickerMode="clock" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_done"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/app_lock_green"
+            android:gravity="center"
+            android:padding="@dimen/ten_dp"
+            android:text="@string/done"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

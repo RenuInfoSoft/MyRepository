@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ExpandableListView
+        android:id="@+id/lvExp_savebattery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/one_dp"
+        android:layout_marginLeft="@dimen/five_dp"
+        android:layout_marginRight="@dimen/five_dp"
+        android:layout_marginTop="@dimen/five_dp"
+        android:groupIndicator="@drawable/expandable_indicator"
+        android:indicatorRight="@dimen/twenty_eight_dp"
+        android:paddingBottom="@dimen/sixty_dp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2">
+        <TextView
+            android:id="@+id/do_not_delete_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/five_dp"
+            android:background="@drawable/button_hdpi"
+            android:text="@string/do_not_delete_apps"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sixteen_sp"
+            android:paddingLeft="@dimen/ten_dp"
+            android:lines="2"
+            android:paddingRight="@dimen/ten_dp"
+            android:textStyle="bold"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/uninstall_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/five_dp"
+            android:background="@drawable/button_hdpi"
+            android:text="@string/uninsatall_apps"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/sixteen_sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/dlg_box"
+    android:orientation="vertical"
+    android:padding="@dimen/twenty_dp" >
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/your_saving_so_far"
+        android:textColor="@color/app_lock_white"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/Cache"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <TextView
+            android:id="@+id/clearedtxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="@dimen/two_dp"
+            android:text="@string/null_gb"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/ram_cleaned"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <TextView
+            android:id="@+id/ramtxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="@dimen/two_dp"
+            android:text="@string/null_gb"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/four_dp"
+        android:gravity="center"
+        android:text="@string/last_cleaned_date"
+        android:textColor="@color/app_lock_white"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/updatedtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/four_dp"
+        android:gravity="center"
+        android:text="@string/null_date"
+        android:textColor="@color/app_lock_white"
+        android:textSize="@dimen/sixteen_sp" />
+
+    <Button
+        android:id="@+id/idd"
+        android:layout_width="@dimen/hundred_dp"
+        android:layout_height="@dimen/fourty_dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/fourty_dp"
+        android:layout_marginRight="@dimen/fourty_dp"
+        android:layout_marginTop="@dimen/four_dp"
+        android:background="@drawable/button_hdpi"
+        android:text="@string/ok"
+        android:textColor="@color/app_lock_white"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

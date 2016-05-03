@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/eight_dp"
+    android:paddingLeft="@dimen/eight_dp"
+    android:paddingTop="@dimen/eight_dp" >
+
+    <ImageView
+        android:id="@+id/child_icon"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="@android:dimen/app_icon_size"
+        android:layout_marginEnd="@dimen/eight_dp"
+        android:layout_marginRight="@dimen/eight_dp"
+        android:contentDescription="@null"
+        android:src="@drawable/no_iamge" />
+
+    <LinearLayout
+        android:layout_width="@dimen/zero_dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/hundred_dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/child_tv_appname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginRight="@dimen/thirty_dp"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:text="Hello"
+            android:textAlignment="viewStart"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <TextView
+            android:id="@+id/child_tv_url"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:singleLine="true"
+            android:textAlignment="viewStart"
+            android:textColor="@color/black"
+            android:textSize="@dimen/eleven_sp" />
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/child_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:button="@drawable/checkbox_frame"
+        android:padding="@dimen/five_dp"
+        android:visibility="visible" />
+
+</LinearLayout>

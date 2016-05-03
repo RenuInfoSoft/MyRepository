@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_lock_white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_lock_green" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="@dimen/five_dp"
+            android:padding="@dimen/five_dp"
+            android:text="@string/save_battery_setting_dialog_title"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/ten_dp"
+        android:layout_marginTop="@dimen/ten_dp"
+        android:background="@color/app_lock_white"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/five_dp"
+            android:text="@string/save_battery_fahrenheit"
+            android:textColor="@color/app_lock_green"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <CheckBox
+            android:id="@+id/fahrenheit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:button="@drawable/checkbox_frame"
+            android:gravity="center_vertical"
+            android:padding="@dimen/five_dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/one_dp"
+        android:background="@android:color/holo_green_dark" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/ten_dp"
+        android:layout_marginTop="@dimen/ten_dp"
+        android:background="@color/app_lock_white"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/five_dp"
+            android:text="@string/save_battery_celcius"
+            android:textColor="@color/app_lock_green"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <CheckBox
+            android:id="@+id/celcius"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:button="@drawable/checkbox_frame"
+            android:gravity="center_vertical"
+            android:padding="@dimen/five_dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/app_lock_green"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/button_done"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:padding="@dimen/five_dp"
+            android:text="@string/done"
+            android:textAlignment="center"
+            android:textColor="@color/app_lock_white"
+            android:textSize="@dimen/sixteen_sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</LinearLayout>

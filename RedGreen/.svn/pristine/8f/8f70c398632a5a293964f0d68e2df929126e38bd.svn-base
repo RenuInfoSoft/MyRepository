@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="apps_list_system_memory">#DB4836</color>
+    <color name="apps_list_cache_memory">#2E75B6</color>
+    <color name="apps_list_free_memory">#00B050</color>
+    <color name="apps_list_used_memory">#E3A40C</color>
+    <color name="light_green_txt_color">#5D8C02</color>
+    <color name="grey">#D4D4D4</color>
+    <color name="red">#DB4836</color>
+ <!--   <color name="light_blue">#2E75B6</color>-->
+    <color name="light_blue_text">#5B9BD5</color>
+    <color name="black">#000000</color>
+    <color name="btn_disable">#C7C7C7</color>
+    <color name="invite_button">#CBCBCB</color>
+
+    <!-- Navigational Drawer -->
+    <color name="navigation_text_color">#678800</color>
+    <color name="navigation_background_color">#FFFFFF</color>
+    <color name="aash">#ccc</color>
+
+    <!-- SPEED_BOOSTER_SETTINGS -->
+    <color name="speed_booster_settings_dialog_green">#619900</color>
+    <color name="green_color">#629A00</color>
+
+    <!-- Applock -->
+    <color name="app_lock_green">#5D8C02</color>
+    <color name="app_lock_white">#FFFFFF</color>
+    <color name="app_lock_black">#000000</color>
+    <color name="main_button_background">#72333333</color>
+    <color name="main_activity_background">#FDFDFB</color>
+    <color name="main_tv_status_color">#48888888</color>
+
+    <!-- LOCKER ACTIVITY -->
+    <color name="locker_head_text_color">#ffffff</color>
+    <color name="locker_overlay">#5D8C02</color>
+    <color name="passwordview_button_background">#FFCCAA</color>
+    <!-- PRO -->
+    <color name="item_bg">#ddd</color>
+    <color name="item_border">#ddd</color>
+    <color name="item_selected_bg">#5D8C02</color>
+    <color name="item_selected_border">#00000000</color>
+
+    <!-- Switch -->
+    <color name="switch_on_bg">#16a085</color>
+    <color name="switch_off_bg">#888</color>
+    <color name="switch_track">#333</color>
+
+</resources>

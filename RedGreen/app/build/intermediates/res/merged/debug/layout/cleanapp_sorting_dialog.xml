@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_lock_white" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:scrollbars="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/app_lock_green" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:padding="@dimen/five_dp"
+                android:text="@string/sort_by_title"
+                android:textColor="@color/app_lock_white"
+                android:textSize="@dimen/sixteen_sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/ten_dp"
+            android:layout_marginTop="@dimen/ten_dp"
+            android:background="@color/app_lock_white"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/five_dp"
+                android:text="@string/parameter_sort"
+                android:textColor="@color/app_lock_green"
+                android:textSize="@dimen/sixteen_sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/one_dp"
+            android:background="@android:color/holo_green_dark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/app_lock_white"
+            android:isScrollContainer="true"
+            android:orientation="vertical" >
+
+            <RadioGroup
+                android:id="@+id/app_setting_grp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ten_dp" >
+
+                <RadioButton
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sort_by_name"
+                    android:textColor="@color/app_lock_green"
+                    android:textSize="@dimen/sixteen_sp" />
+
+                <RadioButton
+                    android:id="@+id/size"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sort_by_size"
+                    android:textColor="@color/app_lock_green"
+                    android:textSize="@dimen/sixteen_sp"
+                    android:visibility="gone" />
+
+                <RadioButton
+                    android:id="@+id/last_used"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sort_by_last_used"
+                    android:textColor="@color/app_lock_green"
+                    android:textSize="@dimen/sixteen_sp"
+                    android:visibility="gone" />
+            </RadioGroup>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/ten_dp"
+                android:background="@color/app_lock_white"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/five_dp"
+                    android:text="@string/direction_sort"
+                    android:textColor="@color/app_lock_green"
+                    android:textSize="@dimen/sixteen_sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/one_dp"
+                android:background="@android:color/holo_green_dark" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/app_lock_white"
+                android:isScrollContainer="true"
+                android:orientation="vertical" >
+
+                <RadioGroup
+                    android:id="@+id/ask_bfore_grp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/ten_dp" >
+
+                    <RadioButton
+                        android:id="@+id/ascending"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/sort_in_ascending"
+                        android:textColor="@color/app_lock_green"
+                        android:textSize="@dimen/sixteen_sp" />
+
+                    <RadioButton
+                        android:id="@+id/decending"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/sort_in_descending"
+                        android:textColor="@color/app_lock_green"
+                        android:textSize="@dimen/sixteen_sp" />
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/app_lock_green"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/button_done"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:padding="@dimen/five_dp"
+                android:text="@string/done"
+                android:textAlignment="center"
+                android:textColor="@color/app_lock_white"
+                android:textSize="@dimen/sixteen_sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

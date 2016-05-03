@@ -1,0 +1,300 @@
+package com.unfoldlabs.redgreen.utilty;
+
+import android.content.Context;
+import android.content.pm.PackageManager;
+import android.location.Address;
+import android.location.Geocoder;
+import android.location.Location;
+import android.location.LocationListener;
+import android.location.LocationManager;
+import android.os.AsyncTask;
+import android.os.Build;
+import android.os.Bundle;
+import android.telephony.TelephonyManager;
+import android.util.Log;
+import android.widget.Toast;
+
+import com.google.gson.JsonObject;
+import com.unfoldlabs.redgreen.model.AddressInfo;
+import com.unfoldlabs.redgreen.model.AnalyticalsInfo;
+import com.unfoldlabs.redgreen.model.AppsInfo;
+import com.unfoldlabs.redgreen.service.ServiceImpl;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+/**
+ * Created by Mahender G on 4/12/2016.
+ */
+public class DeviceInfo {
+
+    private Context context;
+    private List<AppsInfo> listApps = new ArrayList<AppsInfo>();
+
+
+    /** GetLast known Location **/
+    private boolean gps_enabled = false;
+    private boolean network_enabled = false;
+    private Location location;
+
+    private Double MyLat, MyLong;
+    private String CityName = "";
+    private String StateName = "";
+    private String CountryName = "";
+    private String zipCode = "";
+
+    public void  getAllDeviceData(Context context) {
+       /* easyTracker.send(MapBuilder.createEvent(getString(R.string.home_screen),
+                getString(R.string.home_screen_get_all_devices_Data),
+                "track event", null).build());*/
+        this.context = context;
+        TelephonyManager telephonyManager = (TelephonyManager)context. getSystemService(Context.TELEPHONY_SERVICE);
+        telephonyManager.getDeviceId();
+        listApps = Utility.getInstalledApps(context);
+        AnalyticalsInfo analytical = new AnalyticalsInfo();
+        analytical.setSimId(telephonyManager.getSubscriberId());
+        analytical.setImei(telephonyManager.getDeviceId());
+        analytical.setDeviceSoftwareVersion(telephonyManager
+                .getDeviceSoftwareVersion());
+        analytical.setDeviceName(Utility.getDeviceName());
+        analytical.setDeviceModel(android.os.Build.MODEL);
+        analytical.setManufacturer(android.os.Build.MANUFACTURER);
+        analytical.setInternalStorage(Utility.getInternalStorage(context));
+        analytical.setRam(Utility.getTotalRAM(context));
+        analytical.setVersionRelease(System.getProperty("os.version"));
+        analytical.setSdk("" + android.os.Build.VERSION.SDK_INT);
+        analytical.setOsVersion(android.os.Build.VERSION.RELEASE);
+        analytical.setDeviceId(android.os.Build.ID);
+        analytical.setHardware(android.os.Build.HARDWARE);
+        analytical.setDeviceInfo(android.os.Build.DEVICE);
+        analytical.setSerialNumber(android.os.Build.SERIAL);
+        analytical.setVersion(android.os.Build.getRadioVersion());
+        analytical.setVersionReleaseDate(Build.VERSION.RELEASE);
+        analytical.setRedegreenAppversion(getVersion());
+        analytical.setMacAddress(Utility.getMacAddress(context));
+        analytical.setBlutoothAddress(Utility.getBluetoothMacAddress());
+
+        AddressInfo address = new AddressInfo();
+        LocationManager manager = (LocationManager)context.getSystemService(Context.LOCATION_SERVICE);
+        boolean statusOfGPS = manager
+                .isProviderEnabled(LocationManager.GPS_PROVIDER);
+        if (statusOfGPS) {
+            getMyCurrentLocation();
+            address.setAddress(CountryName);
+            address.setCity(CityName);
+            address.setState(StateName);
+            address.setLon(MyLong);
+            address.setLat(MyLat);
+            if (!zipCode.isEmpty())
+                address.setZipCode(Integer.parseInt(zipCode));
+        } else {
+            address.setAddress("United States");
+            address.setCity("San Diego");
+            address.setState("California");
+            address.setLon(0.0);
+            address.setLat(0.0);
+            address.setZipCode(92103);
+        }
+        analytical.setAddress(address);
+        analytical.setApps(listApps);
+        SendDataTask task = new SendDataTask();
+        task.execute(new AnalyticalsInfo[]{analytical});
+    }
+
+    class SendDataTask extends AsyncTask<AnalyticalsInfo, Void, JsonObject> {
+
+        @Override
+        protected JsonObject doInBackground(AnalyticalsInfo... params) {
+           // test(JsonUtil.toJSon(params[0]).toString());
+          //  Toast.makeText(context, "background", Toast.LENGTH_SHORT).show();
+
+            return JsonUtil.toJSon(params[0]);
+
+        }
+
+        @Override
+        protected void onPostExecute(JsonObject result) {
+            super.onPostExecute(result);
+
+            new ServiceImpl().registerAnalyticalDetails(result);
+
+        }
+    }
+
+    private void test(String jsonObject) {
+        File myFile = new File("/sdcard/RgAnalyticsTest.txt");
+        try {
+            myFile.createNewFile();
+            FileOutputStream fOut = new FileOutputStream(myFile);
+            OutputStreamWriter myOutWriter = new OutputStreamWriter(fOut);
+            myOutWriter.append(jsonObject);
+            myOutWriter.close();
+            fOut.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    /**
+     * Check the type of GPS Provider available at that instance and collect the
+     * location informations
+     *
+     * @Output Latitude and Longitude
+     */
+    private void getMyCurrentLocation() {
+
+        LocationManager locManager = (LocationManager)context.getSystemService(Context.LOCATION_SERVICE);
+        LocationListener locListener = new MyLocationListener();
+        try {
+            gps_enabled = locManager.isProviderEnabled(LocationManager.GPS_PROVIDER);
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+        try {
+            network_enabled = locManager.isProviderEnabled(LocationManager.NETWORK_PROVIDER);
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+
+        /**
+         * don't start listeners if no provider is enabled
+         */
+
+        if (gps_enabled) {
+            locManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locListener);
+        }
+
+        if (gps_enabled) {
+            location = locManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+        }
+
+        if (network_enabled && location == null) {
+            locManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, locListener);
+        }
+
+        if (network_enabled && location == null) {
+            location = locManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+        }
+
+        if (location != null) {
+            MyLat = location.getLatitude();
+            MyLong = location.getLongitude();
+        } else {
+            Location loc = getLastKnownLocation(context);
+            if (loc != null) {
+                MyLat = loc.getLatitude();
+                MyLong = loc.getLongitude();
+            }
+        }
+
+        /**
+         * removes the periodic updates from location listener to avoid battery
+         * drainage. If you want to get location at the periodic intervals call
+         * this method using pending intent.
+         */
+        locManager.removeUpdates(locListener); // removes the periodic updates
+        // from location listener to
+        // //avoid battery drainage. If
+        // you want to get location at
+        // the periodic intervals call
+        // this method using //pending
+        // intent.
+
+        try {
+            /**
+             * Getting address from found locations.
+             */
+            Geocoder geocoder = new Geocoder(context);
+            List<Address> addresses = null;
+            if (geocoder != null) {
+                addresses = geocoder.getFromLocation(MyLat, MyLong, 1);
+                StateName = addresses.get(0).getAdminArea();
+                CityName = addresses.get(0).getLocality();
+                CountryName = addresses.get(0).getCountryName();
+                zipCode = addresses.get(0).getPostalCode();
+                /**
+                 * you can get more details other than this . like country code,
+                 * state code, etc.
+                 */
+                /*easyTracker.send(MapBuilder.createEvent(getString(R.string.home_screen),
+                        getString(R.string.home_screen_location_details_diaplayed),
+                        "track event", null).build());*/
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    /**
+     * Location listener class. to get location.
+     */
+    public class MyLocationListener implements LocationListener {
+
+        public void onLocationChanged(Location location) {
+            if (location != null) {
+            }
+        }
+
+        public void onProviderDisabled(String provider) {
+        }
+
+        public void onProviderEnabled(String provider) {
+        }
+
+        public void onStatusChanged(String provider, int status, Bundle extras) {
+        }
+    }
+    /**
+     * below method to get the last remembered location. because we don't get
+     * locations all the times .At some instances we are unable to get the
+     * location from GPS. so at that moment it will show us the last stored
+     * location.
+     */
+
+    private static Location getLastKnownLocation(Context context) {
+
+        Location location = null;
+        LocationManager locationmanager;
+        locationmanager = (LocationManager) context.getSystemService(Context.LOCATION_SERVICE);
+        List<String> list = locationmanager.getAllProviders();
+        boolean i = false;
+        Iterator<String> iterator = list.iterator();
+        do {
+            if (!iterator.hasNext())
+                break;
+            String s = iterator.next();
+            if (i != false && !locationmanager.isProviderEnabled(s))
+                continue;
+            Location location1 = locationmanager.getLastKnownLocation(s);
+            if (location1 == null)
+                continue;
+            if (location != null) {
+                float f = location.getAccuracy();
+                float f1 = location1.getAccuracy();
+                if (f >= f1) {
+                    long l = location1.getTime();
+                    long l1 = location.getTime();
+                    if (l - l1 <= 600000L)
+                        continue;
+                }
+            }
+            location = location1;
+            i = locationmanager.isProviderEnabled(s);
+        } while (true);
+        return location;
+    }
+    public int getVersion() {
+        int v = 0;
+        try {
+            v = context.getPackageManager().getPackageInfo(context.getPackageName(), 0).versionCode;
+        } catch (PackageManager.NameNotFoundException e) {
+
+        }
+        return v;
+    }
+}

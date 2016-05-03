@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/ten_dp"
+        android:orientation="horizontal"
+        android:padding="@dimen/ten_dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/app_lock_green"
+            android:textSize="@dimen/sixteen_sp"
+            android:textStyle="bold"
+            android:layout_marginRight="100dp"
+            android:text="@string/notification_dialog_txt" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/one_dp"
+        android:background="@android:color/holo_green_dark" />
+    <RadioGroup
+        android:id="@+id/notification_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/six_dp" >
+
+        <RadioButton
+            android:id="@+id/notification_on"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/notification_on"
+            android:checked="true"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <RadioButton
+            android:id="@+id/notification_off"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/notification_off"
+
+            android:textSize="@dimen/sixteen_sp" />
+    </RadioGroup>
+
+</LinearLayout>

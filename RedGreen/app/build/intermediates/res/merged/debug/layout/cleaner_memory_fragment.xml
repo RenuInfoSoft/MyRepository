@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/anim_back"
+        android:orientation="horizontal" >
+
+        <com.unfoldlabs.redgreen.views.DonutProgress
+            android:id="@+id/donut_progress_rom"
+            style="@style/donut_progrss_for_resolutions"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/ten_dp"
+            custom:donut_text_size="@dimen/twenty_four_sp"
+            custom:donut_finished_stroke_width="@dimen/fifteen_dp"
+            custom:donut_inner_bottom_text="@string/storage_rom"
+            custom:donut_inner_bottom_text_color="@color/app_lock_white"
+            custom:donut_inner_bottom_text_size="@dimen/ten_dp"
+            custom:donut_progress="0"
+            custom:donut_unfinished_stroke_width="@dimen/ten_dp" />
+
+        <com.unfoldlabs.redgreen.views.DonutProgress
+            android:id="@+id/donut_progress_ram"
+            style="@style/donut_progrss_for_resolutions"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/ten_dp"
+            custom:donut_text_size="@dimen/twenty_four_sp"
+            android:layout_marginRight="@dimen/twenty_dp"
+            custom:donut_finished_stroke_width="@dimen/fifteen_dp"
+            custom:donut_inner_bottom_text="@string/memory_ram"
+            custom:donut_inner_bottom_text_color="@color/app_lock_white"
+            custom:donut_inner_bottom_text_size="@dimen/ten_dp"
+            custom:donut_progress="0"
+            custom:donut_unfinished_stroke_width="@dimen/ten_dp" />
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/top"
+        android:paddingBottom="@dimen/fifteen_dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ExpandableListView
+                android:id="@+id/lvExp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/one_dp"
+                android:layout_marginLeft="@dimen/five_dp"
+                android:layout_marginRight="@dimen/five_dp"
+                android:layout_marginTop="@dimen/five_dp"
+                android:groupIndicator="@drawable/expandable_indicator"
+                android:indicatorRight="@dimen/twenty_eight_dp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/five_dp"
+                android:layout_marginRight="@dimen/five_dp" >
+
+                <TextView
+                    android:id="@+id/clipboarddata"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/app_lock_green"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="@dimen/ten_dp"
+                    android:paddingLeft="@dimen/twenty_seven_dp"
+                    android:paddingRight="@dimen/ten_dp"
+                    android:paddingTop="@dimen/ten_dp"
+                    android:text="@string/clipboarddata"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/sixteen_sp"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/clipboard_chk_box"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:button="@drawable/checkbox_header_frame"
+                    android:padding="@dimen/five_dp"
+                    android:paddingRight="@dimen/fifteen_dp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/five_dp"
+                android:layout_marginRight="@dimen/five_dp"
+                android:layout_marginTop="@dimen/one_dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/app_lock_green"
+                        android:gravity="center_vertical"
+                        android:paddingBottom="@dimen/ten_dp"
+                        android:paddingLeft="@dimen/twenty_seven_dp"
+                        android:paddingRight="@dimen/ten_dp"
+                        android:paddingTop="@dimen/ten_dp"
+                        android:text="@string/clean_cache"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/sixteen_sp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:id="@+id/cache_checked_size"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/five_dp"
+                        android:layout_toLeftOf="@+id/clean_cache_group_chk_box"
+                        android:text="0.0 MB"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/thirteen_sp"
+                        android:textStyle="bold"
+                      />
+                    <CheckBox
+                        android:id="@+id/clean_cache_group_chk_box"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:button="@drawable/checkbox_header_frame"
+                        android:checked="true"
+                        android:padding="@dimen/five_dp"
+                        android:paddingRight="@dimen/eight_dp" />
+                </RelativeLayout>
+
+                <ListView
+                    android:id="@android:id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/cln_memory"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/thirty_two_dp"
+                    android:layout_margin="@dimen/ten_dp"
+                    android:layout_marginTop="@dimen/thirty_five_dp"
+                    android:background="@color/app_lock_green"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/five_dp"
+                    android:text="@string/clean_memory"
+                    android:textColor="@color/app_lock_white"
+                    android:textSize="@dimen/sixteen_sp" />
+
+                <ListView
+                    android:id="@+id/running_apps"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/ten_dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/cln_browse_history_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/five_dp"
+        android:background="@drawable/button_hdpi"
+        android:text="@string/clean_storage"
+        android:textSize="@dimen/sixteen_sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
